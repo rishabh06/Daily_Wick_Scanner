@@ -1,0 +1,9 @@
+.env
+access_token.txt
+venv/
+__pycache__/
+*.pyc
+scanner_output_*.csv
+nse_instruments.csv
+*.csv
+cache/
